@@ -92,7 +92,7 @@ Can handle trend, seasonality, and autocorrelation.
 Flexible model capable of handling multiple and non-integer seasonality patterns.  
 Includes Box-Cox transformations, ARMA errors, and trend modeling.  
 **MAPE:** 5.07%  
-![TBATS Forecast](Unemp_plots/picture1.png)
+![TBATS Forecast](Unemp_plots/Picture1.png)
 
 ---
 
@@ -100,7 +100,7 @@ Includes Box-Cox transformations, ARMA errors, and trend modeling.
 Models error, trend, and seasonal components explicitly.  
 Performs well for seasonal and trend-driven series.  
 **MAPE:** 3.22%  
-![ETS Forecast](Unemp_plots/picture2.png)
+![ETS Forecast](Unemp_plots/Picture2.png)
 
 ---
 
