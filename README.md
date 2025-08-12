@@ -67,7 +67,7 @@ Simple to implement but does not account for trend or seasonality.
 Calculates forecasts as weighted averages of past observations with exponentially decreasing weights.  
 Best suited for data without trends or seasonality.  
 **MAPE:** 9.49%  
-![SES Forecast](Unemp_plots/fses.png)
+![SES Forecast](Unemp_plots/ses.png)
 
 ---
 
@@ -92,7 +92,7 @@ Can handle trend, seasonality, and autocorrelation.
 Flexible model capable of handling multiple and non-integer seasonality patterns.  
 Includes Box-Cox transformations, ARMA errors, and trend modeling.  
 **MAPE:** 5.07%  
-![TBATS Forecast](Unemp_plots/tbats_forecast.png)
+![TBATS Forecast](Unemp_plots/picture1.png)
 
 ---
 
@@ -100,7 +100,7 @@ Includes Box-Cox transformations, ARMA errors, and trend modeling.
 Models error, trend, and seasonal components explicitly.  
 Performs well for seasonal and trend-driven series.  
 **MAPE:** 3.22%  
-![ETS Forecast](Unemp_plots/ets_forecast.png)
+![ETS Forecast](Unemp_plots/picture2.png)
 
 ---
 
