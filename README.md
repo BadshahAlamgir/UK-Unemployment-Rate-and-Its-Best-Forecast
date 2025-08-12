@@ -21,7 +21,8 @@ The project demonstrates:
 - **Source:** UK Unemployment Rate data (`unemp_rate.xls`)
 - **Period:** January 2010 – Latest available month
 - **Frequency:** Monthly
-
+- **Trend of The Data:**
+- ![Trend of The Data](Unemp_plots/whole.png)
 ---
 
 ## 🔧 Methodology
